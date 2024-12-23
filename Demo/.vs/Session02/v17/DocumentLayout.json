@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route-C43-G03\\OOP\\Session02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F944D20-DF53-48B6-A3CD-C90612C0DA44}|Session02\\Session02.csproj|d:\\route-c43-g03\\oop\\session02\\session02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F944D20-DF53-48B6-A3CD-C90612C0DA44}|Session02\\Session02.csproj|solutionrelative:session02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F944D20-DF53-48B6-A3CD-C90612C0DA44}|Session02\\Session02.csproj|d:\\route-c43-g03\\oop\\session02\\session02\\inheritance\\chiled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F944D20-DF53-48B6-A3CD-C90612C0DA44}|Session02\\Session02.csproj|solutionrelative:session02\\inheritance\\chiled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F944D20-DF53-48B6-A3CD-C90612C0DA44}|Session02\\Session02.csproj|d:\\route-c43-g03\\oop\\session02\\session02\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F944D20-DF53-48B6-A3CD-C90612C0DA44}|Session02\\Session02.csproj|solutionrelative:session02\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F944D20-DF53-48B6-A3CD-C90612C0DA44}|Session02\\Session02.csproj|d:\\route-c43-g03\\oop\\session02\\session02\\inheritance\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F944D20-DF53-48B6-A3CD-C90612C0DA44}|Session02\\Session02.csproj|solutionrelative:session02\\inheritance\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chiled.cs",
+              "DocumentMoniker": "D:\\Route-C43-G03\\OOP\\Session02\\Session02\\Inheritance\\Chiled.cs",
+              "RelativeDocumentMoniker": "Session02\\Inheritance\\Chiled.cs",
+              "ToolTip": "D:\\Route-C43-G03\\OOP\\Session02\\Session02\\Inheritance\\Chiled.cs",
+              "RelativeToolTip": "Session02\\Inheritance\\Chiled.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T20:45:28.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "D:\\Route-C43-G03\\OOP\\Session02\\Session02\\Inheritance\\Parent.cs",
+              "RelativeDocumentMoniker": "Session02\\Inheritance\\Parent.cs",
+              "ToolTip": "D:\\Route-C43-G03\\OOP\\Session02\\Session02\\Inheritance\\Parent.cs",
+              "RelativeToolTip": "Session02\\Inheritance\\Parent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T20:42:17.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Route-C43-G03\\OOP\\Session02\\Session02\\Car.cs",
+              "RelativeDocumentMoniker": "Session02\\Car.cs",
+              "ToolTip": "D:\\Route-C43-G03\\OOP\\Session02\\Session02\\Car.cs",
+              "RelativeToolTip": "Session02\\Car.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T20:04:38.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route-C43-G03\\OOP\\Session02\\Session02\\Program.cs",
+              "RelativeDocumentMoniker": "Session02\\Program.cs",
+              "ToolTip": "D:\\Route-C43-G03\\OOP\\Session02\\Session02\\Program.cs",
+              "RelativeToolTip": "Session02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:25:20.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
